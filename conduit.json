@@ -16,7 +16,7 @@
         "name": "Jordan Partridge",
         "email": "jordan@partridge.rocks"
     },
-    "homepage": "https://github.com/jordanpartridge/conduit-env-manager",
-    "repository": "https://github.com/jordanpartridge/conduit-env-manager",
+    "homepage": "https://github.com/shadetheory/conduit-env-manager",
+    "repository": "https://github.com/shadetheory/conduit-env-manager",
     "license": "MIT"
 }
